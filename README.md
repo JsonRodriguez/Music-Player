@@ -1,10 +1,15 @@
-# React + Vite
+# Music Player 🎵
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  It is a music player application designed to enjoy your favorite songs. With a minimalist interface but with great style, which is appreciated from your cell phone since it is responsive.
 
-Currently, two official plugins are available:
+Screenshots 📷
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  ![MusicPlayerAppBanner](https://github.com/JsonRodriguez/Music-Player/assets/105531721/9ae309bd-89e8-442c-a2fb-0cff318bb3bb)
 
-![MusicPlayerAppBanner](https://github.com/JsonRodriguez/Music-Player/assets/105531721/9ae309bd-89e8-442c-a2fb-0cff318bb3bb)
+Installation and Use 📦
+
+  You don't have to do anything to install it, just downloading the repository is enough.
+
+Contributions and Problem Report 🤝
+
+  Contributions ✔, corrections or advice are always accepted for my growth as a front-end or app developer. 💪
