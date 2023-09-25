@@ -12,4 +12,4 @@ Installation and Use 📦
 
 Contributions and Problem Report 🤝
 
-  Contributions ✔, corrections or advice are always accepted for my growth as a front-end or app developer. 💪
+  Contributions ✔, corrections or advice are always accepted for my growth as a front-end developer or my app. 💪
