@@ -6,7 +6,7 @@
 
   ![MusicPlayerAppBanner](https://github.com/JsonRodriguez/Music-Player/assets/105531721/9ae309bd-89e8-442c-a2fb-0cff318bb3bb)
 
-## Installation and Use 📦
+** Installation and Use 📦 **
 
   You don't have to do anything to install it, just downloading the repository is enough.
 
